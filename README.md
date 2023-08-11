@@ -1,7 +1,7 @@
 # Arithmetic-Formatter
 FreeCodeCamp Arithmetic Formatter Certification Project
 
-##Usage
+## Usage
 '''
 python3 arithmetic_arranger.py
 '''
